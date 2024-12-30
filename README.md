@@ -1,4 +1,4 @@
-# Sistema de Cajero Automático 🏦
+# Sistema de Cajero Automático 🏦.
 
 ## Descripción
 Sistema que simula las operaciones básicas de un cajero automático, implementando patrones de diseño y principios SOLID. El proyecto está desarrollado en pseudocódigo estructurado, demostrando buenas prácticas de programación y arquitectura de software.
